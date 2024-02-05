@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_003,Chrome 120.0.0.0,,,26-01-2024 02:06:45,26-01-2024 02:07:04,18.836s,PASSED
+,,,,,,,
+Test Cases/Amazon/Amazon Home Page/Validate_Amazon_Home_Page_Lang_Country_003,Chrome 120.0.0.0,Validate the amazon application country/ language present in the home page,,26-01-2024 02:06:45,26-01-2024 02:07:04,18.429s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,26-01-2024 02:06:46,26-01-2024 02:06:49,3.105s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,26-01-2024 02:06:49,26-01-2024 02:06:50,0.865s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Home_Page_Lang_003/Page_Online Shopping site in India Shop Onl_10c5f3/span_EN""))",Chrome 120.0.0.0,,,26-01-2024 02:06:50,26-01-2024 02:07:01,11.449s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Home_Page_Lang_003/Page_Change Language Settings/span_English -        EN""))",Chrome 120.0.0.0,,,26-01-2024 02:07:01,26-01-2024 02:07:02,1.150s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Home_Page_Lang_003/Page_Change Language Settings/input_a-button-input""))",Chrome 120.0.0.0,,,26-01-2024 02:07:02,26-01-2024 02:07:03,0.972s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,26-01-2024 02:07:03,26-01-2024 02:07:04,0.404s,PASSED

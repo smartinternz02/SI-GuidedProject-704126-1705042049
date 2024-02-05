@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_006,Chrome 120.0.0.0,,,26-01-2024 12:16:40,26-01-2024 12:17:03,22.601s,PASSED
+,,,,,,,
+Test Cases/Amazon/Amazon Login Page/Validate_Amazon_NewUser_Reg_Page_006,Chrome 120.0.0.0,Validate the amazon application for new user,,26-01-2024 12:16:41,26-01-2024 12:17:03,21.917s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,26-01-2024 12:16:42,26-01-2024 12:16:46,4.594s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,26-01-2024 12:16:46,26-01-2024 12:16:48,1.498s,PASSED
+"doubleClick(findTestObject(""Amazon Login Page/Validate_Amazon_NewUser_Reg_Page_006/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/a_Hello, sign in  Account  Lists""))",Chrome 120.0.0.0,,,26-01-2024 12:16:48,26-01-2024 12:16:50,2.445s,PASSED
+"click(findTestObject(""Amazon Login Page/Validate_Amazon_NewUser_Reg_Page_006/Page_Amazon Sign In/a_Create your Amazon account""))",Chrome 120.0.0.0,,,26-01-2024 12:16:50,26-01-2024 12:16:52,2.032s,PASSED
+"setText(findTestObject(""Amazon Login Page/Validate_Amazon_NewUser_Reg_Page_006/Page_Amazon Registration/input_Your name_customerName""), Username)",Chrome 120.0.0.0,,,26-01-2024 12:16:52,26-01-2024 12:16:54,1.535s,PASSED
+"setText(findTestObject(""Amazon Login Page/Validate_Amazon_NewUser_Reg_Page_006/Page_Amazon Registration/input_mobileNumber""), MobileNumber)",Chrome 120.0.0.0,,,26-01-2024 12:16:54,26-01-2024 12:16:55,1.266s,PASSED
+"setText(findTestObject(""Amazon Login Page/Validate_Amazon_NewUser_Reg_Page_006/Page_Amazon Registration/input_Email (optional)_secondaryLoginClaim""), Email)",Chrome 120.0.0.0,,,26-01-2024 12:16:55,26-01-2024 12:16:56,1.194s,PASSED
+"setText(findTestObject(""Amazon Login Page/Validate_Amazon_NewUser_Reg_Page_006/Page_Amazon Registration/input_Password_password""), Password)",Chrome 120.0.0.0,,,26-01-2024 12:16:56,26-01-2024 12:16:57,1.221s,PASSED
+"click(findTestObject(""Amazon Login Page/Validate_Amazon_NewUser_Reg_Page_006/Page_Amazon Registration/verify mobile""))",Chrome 120.0.0.0,,,26-01-2024 12:16:57,26-01-2024 12:16:59,1.691s,PASSED
+delay(3),Chrome 120.0.0.0,,,26-01-2024 12:16:59,26-01-2024 12:17:02,3.106s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,26-01-2024 12:17:02,26-01-2024 12:17:03,0.515s,PASSED

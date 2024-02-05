@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validating Amazon Home Page</description>
+   <name>Validate_Amazon_Home_Page_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acedad91-0c15-4333-b50e-8f36bf3055f2</testCaseGuid>
+</TestCaseEntity>

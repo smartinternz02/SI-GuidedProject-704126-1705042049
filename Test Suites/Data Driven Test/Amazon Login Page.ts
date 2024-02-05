@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Amazon Login Page</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0da9d89f-10f2-46d3-9baf-30abf84b57ae</testSuiteGuid>
+   <testCaseLink>
+      <guid>c82cd24e-b604-45f8-9fcd-632baf478dc3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'example@gmail.com'</defaultValue>
+         <description></description>
+         <id>432d1fd2-fe29-4459-ba5a-df1bc5563042</id>
+         <masked>false</masked>
+         <name>Email</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Amazon/Amazon Login Page/Validate_Amazon_Sign_In_Page_005</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8094308f-e2b8-4267-952b-86dbc49752c5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Amazon Login Data/Login Details</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8094308f-e2b8-4267-952b-86dbc49752c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>432d1fd2-fe29-4459-ba5a-df1bc5563042</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8094308f-e2b8-4267-952b-86dbc49752c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>71798810-9bfc-423e-99bc-54d45bbc39a0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

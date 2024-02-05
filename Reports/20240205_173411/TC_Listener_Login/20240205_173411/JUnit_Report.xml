@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TC_Listener_Login" time="37.535" tests="1" failures="0" errors="0">
+   <testsuite name="TC_Listener_Login" tests="1" failures="0" errors="0" time="37.535" skipped="0" timestamp="05-02-2024T17:34:27" hostname="roopadharshini - host.docker.internal" id="Test Suites/TC_Listener_Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Katalon Testing\\Amazon Software Testing\\Reports\\20240205_173411\\TC_Listener_Login\\20240205_173411"/>
+         <property name="logFiles" value="E:\\Katalon Testing\\Amazon Software Testing\\Reports\\20240205_173411\\TC_Listener_Login\\20240205_173411\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="roopadharshini - host.docker.internal"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.7"/>
+         <property name="sessionId" value="fe612d7048bfa3a51e520b69ec889065"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Amazon/Amazon Login Page/Validate_Amazon_Sign_In_Page_005" time="36.734" classname="Test Cases/Amazon/Amazon Login Page/Validate_Amazon_Sign_In_Page_005" status="PASSED">
+         <system-out><![CDATA[05-02-2024T17:34:27 - [TEST_CASE][PASSED] - Test Cases/Amazon/Amazon Login Page/Validate_Amazon_Sign_In_Page_005: Test Cases/Amazon/Amazon Login Page/Validate_Amazon_Sign_In_Page_005
+
+05-02-2024T17:34:28 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.in/' successfully
+
+05-02-2024T17:34:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-02-2024T17:34:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-02-2024T17:34:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-02-2024T17:34:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-02-2024T17:34:33 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+05-02-2024T17:34:35 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+05-02-2024T17:34:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-02-2024T17:34:35 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+05-02-2024T17:34:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-02-2024T17:34:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-02-2024T17:34:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-02-2024T17:34:38 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+05-02-2024T17:34:40 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+05-02-2024T17:34:40 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Online Shopping site in India Shop Onl_10c5f3/a_Hello, sign in  Account  Lists")): Object: 'Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Online Shopping site in India Shop Onl_10c5f3/a_Hello, sign in  Account  Lists' is double clicked on
+
+05-02-2024T17:34:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Online Shopping site in India Shop Onl_10c5f3/a_Hello, sign in  Account  Lists' is double clicked on
+
+05-02-2024T17:34:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_email"), "example@gmail.com"): Text 'example@gmail.com' is set on object 'Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_email'
+
+05-02-2024T17:34:45 - [MESSAGE][PASSED] - Text 'example@gmail.com' is set on object 'Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_email'
+
+05-02-2024T17:34:45 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+05-02-2024T17:34:48 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+05-02-2024T17:34:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/inputcontinue")): Object: 'Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/inputcontinue' is clicked on
+
+05-02-2024T17:34:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/inputcontinue' is clicked on
+
+05-02-2024T17:34:49 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_password"), "8SQVv/p9jVScEs4/2CZsLw=="): Text ****** has been set on object 'Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_password'
+
+05-02-2024T17:34:51 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_password'
+
+05-02-2024T17:34:51 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+05-02-2024T17:34:54 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+05-02-2024T17:34:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/inputsignInSubmit")): Object: 'Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+05-02-2024T17:34:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+05-02-2024T17:34:54 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+05-02-2024T17:34:57 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+05-02-2024T17:34:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-02-2024T17:34:58 - [MESSAGE][PASSED] - Browser is closed
+
+05-02-2024T17:34:58 - [TEST_STEP][PASSED] - Start tear down : tearDownTestCase: Method 'tearDownTestCase' complete successfully
+
+05-02-2024T17:34:58 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+05-02-2024T17:35:01 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+05-02-2024T17:35:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-02-2024T17:35:01 - [MESSAGE][PASSED] - Browser is closed
+
+05-02-2024T17:35:01 - [MESSAGE][PASSED] - Method 'tearDownTestCase' complete successfully
+
+05-02-2024T17:35:01 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+05-02-2024T17:35:01 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+05-02-2024T17:35:04 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+05-02-2024T17:35:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-02-2024T17:35:04 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[05-02-2024T17:34:27 - [TEST_SUITE][PASSED] - TC_Listener_Login: Test Cases/Amazon/Amazon Login Page/Validate_Amazon_Sign_In_Page_005]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

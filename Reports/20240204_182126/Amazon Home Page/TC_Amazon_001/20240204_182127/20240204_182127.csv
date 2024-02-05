@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_001,Chrome 121.0.0.0,,,04-02-2024 18:21:41,04-02-2024 18:21:51,9.755s,PASSED
+,,,,,,,
+Test Cases/Amazon/Amazon Home Page/Validate_Amazon_Home_Page_001,Chrome 121.0.0.0,Validating Amazon Home Page,,04-02-2024 18:21:42,04-02-2024 18:21:51,9.226s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,04-02-2024 18:21:42,04-02-2024 18:21:46,4.226s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,04-02-2024 18:21:46,04-02-2024 18:21:47,0.998s,PASSED
+delay(3),Chrome 121.0.0.0,,,04-02-2024 18:21:47,04-02-2024 18:21:50,3.090s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,04-02-2024 18:21:50,04-02-2024 18:21:51,0.431s,PASSED
