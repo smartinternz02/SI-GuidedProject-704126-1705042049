@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Amazon Prime Music100 million songs, ad-f_1958ce</name>
+   <tag></tag>
+   <elementGuidId>dc207fea-8209-457c-8cc6-d2964f5cb2ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navFooter']/div[5]/table/tbody/tr[3]/td[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b1f296f6-f6b3-43c3-bdd2-5a6dada8e099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/music/prime?ref=footer_apm</value>
+      <webElementGuid>5828f11b-ad17-4c62-97b5-b7fc87de8ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav_a</value>
+      <webElementGuid>edff96ea-10e4-4ff2-b908-5dc1c5279cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amazon Prime Music100 million songs, ad-freeOver 15 million podcast episodes </value>
+      <webElementGuid>212e6580-2394-4eaf-9f5f-c86070f07442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navFooter&quot;)/div[@class=&quot;navFooterLine navFooterLinkLine navFooterDescLine&quot;]/table[@class=&quot;navFooterMoreOnAmazon&quot;]/tbody[1]/tr[3]/td[@class=&quot;navFooterDescItem&quot;]/a[@class=&quot;nav_a&quot;]</value>
+      <webElementGuid>39abbb27-4ffb-43a0-947b-a192cbf19bb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navFooter']/div[5]/table/tbody/tr[3]/td[7]/a</value>
+      <webElementGuid>85d9991e-637f-47ed-9271-57334f9aa9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/music/prime?ref=footer_apm')]</value>
+      <webElementGuid>3240e2a6-f7ed-438c-b552-2541d813b786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[7]/a</value>
+      <webElementGuid>e342e2ba-4396-4929-ae99-1fa59adbc1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/music/prime?ref=footer_apm' and (text() = 'Amazon Prime Music100 million songs, ad-freeOver 15 million podcast episodes ' or . = 'Amazon Prime Music100 million songs, ad-freeOver 15 million podcast episodes ')]</value>
+      <webElementGuid>66668a52-ad07-4333-9a6c-bf8f6bd80d0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

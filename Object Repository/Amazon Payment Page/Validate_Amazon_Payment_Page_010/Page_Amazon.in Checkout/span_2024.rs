@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2024</name>
+   <tag></tag>
+   <elementGuidId>cef76957-af77-4979-951c-94ac3d8dc055</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='pp-SFLzez-23']/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pp-SFLzez-23 > span.a-button-inner > span.a-button-text.a-declarative > span.a-dropdown-prompt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0a494c19-1167-4300-b5a5-98cec725b7c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-dropdown-prompt</value>
+      <webElementGuid>0f495294-5f2b-4d3b-9df1-ee6a8d89027f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2024</value>
+      <webElementGuid>757dbf1b-36aa-4048-bc02-3855adc5943e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pp-SFLzez-23&quot;)/span[@class=&quot;a-button-inner&quot;]/span[@class=&quot;a-button-text a-declarative&quot;]/span[@class=&quot;a-dropdown-prompt&quot;]</value>
+      <webElementGuid>baf4fb21-69ff-40ac-8d34-95283fba145c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Amazon Payment Page/Validate_Amazon_Payment_Page_010/Page_Amazon.in Checkout/iframe_ApxSecureIframe</value>
+      <webElementGuid>42fe357c-4a57-48b1-87a1-64eecd1ebee4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='pp-SFLzez-23']/span/span/span</value>
+      <webElementGuid>15ac7e7e-5d41-4a39-9e1f-0f9520407c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/span/span/span/span</value>
+      <webElementGuid>614e5b6e-7b39-4036-8a49-5530ed5047a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2024' or . = '2024')]</value>
+      <webElementGuid>4f8db22b-7245-4ecf-8bd8-2fdf840817b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

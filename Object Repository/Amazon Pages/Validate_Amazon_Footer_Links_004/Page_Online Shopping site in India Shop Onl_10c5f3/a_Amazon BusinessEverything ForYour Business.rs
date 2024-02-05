@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Amazon BusinessEverything ForYour Business</name>
+   <tag></tag>
+   <elementGuidId>cd1ab2fd-4c14-425d-97c3-f7c9cc68d8c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navFooter']/div[5]/table/tbody/tr[3]/td[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8e04dfab-a0dd-4496-ac76-e304b39f5bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/business?ref=footer_aingw</value>
+      <webElementGuid>bd42930b-9c2e-4b5c-afc2-2be9d907c2c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav_a</value>
+      <webElementGuid>b94807df-1ace-4728-b68f-ffd68d0daa39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>	
+Amazon BusinessEverything ForYour Business</value>
+      <webElementGuid>388d6903-c3d3-495a-86e6-e61901d874bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navFooter&quot;)/div[@class=&quot;navFooterLine navFooterLinkLine navFooterDescLine&quot;]/table[@class=&quot;navFooterMoreOnAmazon&quot;]/tbody[1]/tr[3]/td[@class=&quot;navFooterDescItem&quot;]/a[@class=&quot;nav_a&quot;]</value>
+      <webElementGuid>5cc8cb7b-83d9-477e-ab1b-296a2c68bac2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navFooter']/div[5]/table/tbody/tr[3]/td[3]/a</value>
+      <webElementGuid>9cc5e614-6803-4973-8be6-103159268fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/business?ref=footer_aingw')]</value>
+      <webElementGuid>b471e1ad-a516-453c-998b-12cd6166e058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/a</value>
+      <webElementGuid>7ca9ed75-ee6f-43f5-82e4-91becc497a28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/business?ref=footer_aingw' and (text() = '	
+Amazon BusinessEverything ForYour Business' or . = '	
+Amazon BusinessEverything ForYour Business')]</value>
+      <webElementGuid>ee7f113a-83c9-4d76-90fa-330a777ceb7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

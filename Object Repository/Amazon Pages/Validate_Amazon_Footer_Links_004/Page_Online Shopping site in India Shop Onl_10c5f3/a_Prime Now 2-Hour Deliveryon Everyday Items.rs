@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Prime Now 2-Hour Deliveryon Everyday Items</name>
+   <tag></tag>
+   <elementGuidId>ad92e70d-7294-44db-98fd-b67b8cb6d12d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navFooter']/div[5]/table/tbody/tr[3]/td[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b2601080-39c6-4620-b19d-a39783384b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/now?ref=footer_amznow</value>
+      <webElementGuid>b847d71e-c5d2-4452-9b87-e45bd716eab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav_a</value>
+      <webElementGuid>39d394fb-45ed-4a0e-85bc-7fa2676c4630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prime Now 2-Hour Deliveryon Everyday Items</value>
+      <webElementGuid>5ace2804-b786-4cc5-a1b1-3231ed6a03da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navFooter&quot;)/div[@class=&quot;navFooterLine navFooterLinkLine navFooterDescLine&quot;]/table[@class=&quot;navFooterMoreOnAmazon&quot;]/tbody[1]/tr[3]/td[@class=&quot;navFooterDescItem&quot;]/a[@class=&quot;nav_a&quot;]</value>
+      <webElementGuid>fce3ffec-eff5-4ba9-b0ca-bc3d8e986727</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navFooter']/div[5]/table/tbody/tr[3]/td[5]/a</value>
+      <webElementGuid>8d03574c-3527-4e27-9d68-2bf93901f938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/now?ref=footer_amznow')]</value>
+      <webElementGuid>c671be47-a97e-48f4-8707-f7a57111b234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[5]/a</value>
+      <webElementGuid>460a7bff-d4f1-41c0-98ea-9a223d562ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/now?ref=footer_amznow' and (text() = 'Prime Now 2-Hour Deliveryon Everyday Items' or . = 'Prime Now 2-Hour Deliveryon Everyday Items')]</value>
+      <webElementGuid>d30650f0-a9e8-43fd-9143-68ea61d7869f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

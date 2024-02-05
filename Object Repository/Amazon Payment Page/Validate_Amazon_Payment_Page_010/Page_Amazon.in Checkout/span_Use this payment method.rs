@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Use this payment method</name>
+   <tag></tag>
+   <elementGuidId>1ec794c2-3306-4ed8-8a50-64ecf8dbe599</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='pp-55TH3Z-154-announce']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pp-55TH3Z-154-announce > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4eec3d69-8220-4eea-8968-b933512855f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Use this payment method</value>
+      <webElementGuid>461fe0ff-3e5c-4bb1-a048-6c91007af06a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pp-55TH3Z-154-announce&quot;)/span[1]</value>
+      <webElementGuid>68364da7-9a21-4dd4-86ba-75c05e00aa0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='pp-55TH3Z-154-announce']/span</value>
+      <webElementGuid>26341246-b299-4724-b6c3-550aa73b05b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div/span/span/span/span</value>
+      <webElementGuid>ee61b50e-86d1-4bb8-b3dc-05fb27ae0da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Use this payment method' or . = 'Use this payment method')]</value>
+      <webElementGuid>9f44a86e-8b5e-4ba7-997d-c7f817dc257d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
