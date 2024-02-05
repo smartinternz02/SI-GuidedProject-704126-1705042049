@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the amazon application for ordering items</description>
+   <name>Validate_Amazon_Product_Order_009</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab3583ea-f51d-4786-a7c9-fc54fa56d747</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Category search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6cf8a2a-f047-4b9c-aa17-969c0b5aa767</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e988a529-c751-4cf3-88bb-5bdb75b9c4f0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36721c0f-b572-4760-b6e6-9b99c03b611d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>e988a529-c751-4cf3-88bb-5bdb75b9c4f0</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>36721c0f-b572-4760-b6e6-9b99c03b611d</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+</TestCaseEntity>

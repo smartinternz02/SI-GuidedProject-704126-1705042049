@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the amazon application for footer links</description>
+   <name>Validate_Amazon_Home_Page_Footer_Links_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cf43d47-2135-4948-bb68-192f5bef828a</testCaseGuid>
+</TestCaseEntity>
