@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon Order Page/Validate_Amazon_Product_Order_009/Page_Buy KOTTY Women High Rise Cotton Lycra_387dc0/select_Select                     26       _848e51",
+      "brokenLocator": "//select[@id\u003d\u0027native_dropdown_selected_size_name\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/select",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240126_122113/Amazon Order Page/TC_Amazon_009/20240126_122113/Object Repository/Amazon Order Page/Validate_Amazon_Product_Order_009/Page_Buy KOTTY Women High Rise Cotton Lycra_387dc0/select_Select                     26       _848e51_position.png"
+    }
+  ]
+}

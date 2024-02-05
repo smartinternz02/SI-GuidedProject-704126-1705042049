@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_008,Chrome 120.0.0.0,,,26-01-2024 12:20:19,26-01-2024 12:20:46,26.841s,PASSED
+,,,,,,,
+Test Cases/Amazon/Amazon Product Page/Validate_Amazon_Product_Wishlist_008,Chrome 120.0.0.0,Validate the amazon application for wishlist,,26-01-2024 12:20:19,26-01-2024 12:20:46,26.176s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,26-01-2024 12:20:20,26-01-2024 12:20:25,5.242s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,26-01-2024 12:20:25,26-01-2024 12:20:27,1.438s,PASSED
+"setText(findTestObject(""Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""Lipstick"")",Chrome 120.0.0.0,,,26-01-2024 12:20:27,26-01-2024 12:20:30,2.666s,PASSED
+"click(findTestObject(""Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Amazon.in  Lipstick/inputnav-search-submit-button""))",Chrome 120.0.0.0,,,26-01-2024 12:20:30,26-01-2024 12:20:36,6.128s,PASSED
+"click(findTestObject(""Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Amazon.in  Lipstick/img_s-image""))",Chrome 120.0.0.0,,,26-01-2024 12:20:36,26-01-2024 12:20:37,1.612s,PASSED
+"switchToWindowTitle(""Buy Staze 9to9 Love Tri-Angle 3 in 1 Lipstick |3 Unique Shades in 1 | Transfer-proof | 12 H Longstay | Non Drying Formula with Intense Color Payoff | 03 Caramel Rose | 3.8 g Online at Low Prices in India - Amazon.in"")",Chrome 120.0.0.0,,,26-01-2024 12:20:37,26-01-2024 12:20:42,4.707s,PASSED
+"click(findTestObject(""Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Buy Staze 9to9 Love Tri-Angle 3 in 1 L_aa7870/a_Add to Wish List""))",Chrome 120.0.0.0,,,26-01-2024 12:20:42,26-01-2024 12:20:45,2.984s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,26-01-2024 12:20:45,26-01-2024 12:20:46,0.662s,PASSED

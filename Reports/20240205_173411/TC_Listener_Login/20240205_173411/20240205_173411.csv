@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Listener_Login,Chrome 121.0.0.0,,,05-02-2024 17:34:27,05-02-2024 17:35:04,37.535s,PASSED
+,,,,,,,
+Test Cases/Amazon/Amazon Login Page/Validate_Amazon_Sign_In_Page_005,Chrome 121.0.0.0,Validate the amazon application for Sign In,,05-02-2024 17:34:27,05-02-2024 17:35:04,36.734s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,05-02-2024 17:34:28,05-02-2024 17:34:35,7.130s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,05-02-2024 17:34:35,05-02-2024 17:34:38,2.762s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,05-02-2024 17:34:38,05-02-2024 17:34:40,1.714s,PASSED
+"doubleClick(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Online Shopping site in India Shop Onl_10c5f3/a_Hello, sign in  Account  Lists""))",Chrome 121.0.0.0,,,05-02-2024 17:34:40,05-02-2024 17:34:43,2.926s,PASSED
+"setText(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_email""), ""example@gmail.com"")",Chrome 121.0.0.0,,,05-02-2024 17:34:43,05-02-2024 17:34:45,2.090s,PASSED
+delay(3),Chrome 121.0.0.0,,,05-02-2024 17:34:45,05-02-2024 17:34:48,3.115s,PASSED
+"click(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/inputcontinue""))",Chrome 121.0.0.0,,,05-02-2024 17:34:48,05-02-2024 17:34:49,1.571s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_password""), ""8SQVv/p9jVScEs4/2CZsLw=="")",Chrome 121.0.0.0,,,05-02-2024 17:34:49,05-02-2024 17:34:51,1.122s,PASSED
+delay(3),Chrome 121.0.0.0,,,05-02-2024 17:34:51,05-02-2024 17:34:54,3.018s,PASSED
+"click(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 121.0.0.0,,,05-02-2024 17:34:54,05-02-2024 17:34:54,0.756s,PASSED
+delay(3),Chrome 121.0.0.0,,,05-02-2024 17:34:54,05-02-2024 17:34:57,3.019s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,05-02-2024 17:34:57,05-02-2024 17:34:58,0.517s,PASSED
+Start tear down : tearDownTestCase,Chrome 121.0.0.0,,,05-02-2024 17:34:58,05-02-2024 17:35:01,3.197s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,05-02-2024 17:35:01,05-02-2024 17:35:04,3.079s,PASSED

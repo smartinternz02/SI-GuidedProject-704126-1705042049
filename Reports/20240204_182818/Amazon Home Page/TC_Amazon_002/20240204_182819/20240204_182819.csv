@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_002,Chrome 121.0.0.0,,,04-02-2024 18:28:31,04-02-2024 18:28:40,8.664s,PASSED
+,,,,,,,
+Test Cases/Amazon/Amazon Home Page/Validate_Amazon_Logo_002,Chrome 121.0.0.0,Validate the amazon logo present in the left corner of the home page,,04-02-2024 18:28:32,04-02-2024 18:28:40,8.249s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,04-02-2024 18:28:32,04-02-2024 18:28:35,2.840s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,04-02-2024 18:28:35,04-02-2024 18:28:36,1.307s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Logo_002/Page_Online Shopping site in India Shop Onl_10c5f3/a_in""))",Chrome 121.0.0.0,,,04-02-2024 18:28:36,04-02-2024 18:28:39,2.502s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,04-02-2024 18:28:39,04-02-2024 18:28:40,1.167s,PASSED

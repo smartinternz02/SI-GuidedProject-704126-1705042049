@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TC_Amazon_008" time="26.841" tests="1" failures="0" errors="0">
+   <testsuite name="TC_Amazon_008" tests="1" failures="0" errors="0" time="26.841" skipped="0" timestamp="26-01-2024T12:20:19" hostname="roopadharshini - Roopa" id="Test Suites/Amazon Product Page/TC_Amazon_008">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Katalon Testing\\Amazon Software Testing\\Reports\\20240126_122003\\Amazon Product Page\\TC_Amazon_008\\20240126_122003"/>
+         <property name="logFiles" value="E:\\Katalon Testing\\Amazon Software Testing\\Reports\\20240126_122003\\Amazon Product Page\\TC_Amazon_008\\20240126_122003\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="roopadharshini - Roopa"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="afb82d9a5c442d56fd0335bef45e3862"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Amazon/Amazon Product Page/Validate_Amazon_Product_Wishlist_008" time="26.176" classname="Test Cases/Amazon/Amazon Product Page/Validate_Amazon_Product_Wishlist_008" status="PASSED">
+         <system-out><![CDATA[26-01-2024T12:20:19 - [TEST_CASE][PASSED] - Test Cases/Amazon/Amazon Product Page/Validate_Amazon_Product_Wishlist_008: Test Cases/Amazon/Amazon Product Page/Validate_Amazon_Product_Wishlist_008
+
+26-01-2024T12:20:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T12:20:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T12:20:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T12:20:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T12:20:25 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+26-01-2024T12:20:27 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+26-01-2024T12:20:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords"), "Lipstick"): Text 'Lipstick' is set on object 'Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords'
+
+26-01-2024T12:20:29 - [MESSAGE][PASSED] - Text 'Lipstick' is set on object 'Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords'
+
+26-01-2024T12:20:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Amazon.in  Lipstick/inputnav-search-submit-button")): Object: 'Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Amazon.in  Lipstick/inputnav-search-submit-button' is clicked on
+
+26-01-2024T12:20:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Amazon.in  Lipstick/inputnav-search-submit-button' is clicked on
+
+26-01-2024T12:20:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Amazon.in  Lipstick/img_s-image")): Object: 'Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Amazon.in  Lipstick/img_s-image' is clicked on
+
+26-01-2024T12:20:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Amazon.in  Lipstick/img_s-image' is clicked on
+
+26-01-2024T12:20:37 - [TEST_STEP][PASSED] - switchToWindowTitle("Buy Staze 9to9 Love Tri-Angle 3 in 1 Lipstick |3 Unique Shades in 1 | Transfer-proof | 12 H Longstay | Non Drying Formula with Intense Color Payoff | 03 Caramel Rose | 3.8 g Online at Low Prices in India - Amazon.in"): Switched to window with title: 'Buy Staze 9to9 Love Tri-Angle 3 in 1 Lipstick |3 Unique Shades in 1 | Transfer-proof | 12 H Longstay | Non Drying Formula with Intense Color Payoff | 03 Caramel Rose | 3.8 g Online at Low Prices in India - Amazon.in'
+
+26-01-2024T12:20:42 - [MESSAGE][PASSED] - Switched to window with title: 'Buy Staze 9to9 Love Tri-Angle 3 in 1 Lipstick |3 Unique Shades in 1 | Transfer-proof | 12 H Longstay | Non Drying Formula with Intense Color Payoff | 03 Caramel Rose | 3.8 g Online at Low Prices in India - Amazon.in'
+
+26-01-2024T12:20:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Buy Staze 9to9 Love Tri-Angle 3 in 1 L_aa7870/a_Add to Wish List")): Object: 'Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Buy Staze 9to9 Love Tri-Angle 3 in 1 L_aa7870/a_Add to Wish List' is clicked on
+
+26-01-2024T12:20:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon Product Page/Validate_Amazon_Product_Wishlist_008/Page_Buy Staze 9to9 Love Tri-Angle 3 in 1 L_aa7870/a_Add to Wish List' is clicked on
+
+26-01-2024T12:20:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T12:20:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-01-2024T12:20:19 - [TEST_SUITE][PASSED] - TC_Amazon_008: Test Cases/Amazon/Amazon Product Page/Validate_Amazon_Product_Wishlist_008]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

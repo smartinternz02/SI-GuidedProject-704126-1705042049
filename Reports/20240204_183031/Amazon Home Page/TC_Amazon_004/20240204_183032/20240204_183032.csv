@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_004,Chrome 121.0.0.0,,,04-02-2024 18:30:45,04-02-2024 18:31:22,37.739s,PASSED
+,,,,,,,
+Test Cases/Amazon/Amazon Home Page/Validate_Amazon_Home_Page_Footer_Links_004,Chrome 121.0.0.0,Validate the amazon application for footer links,,04-02-2024 18:30:45,04-02-2024 18:31:22,37.355s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,04-02-2024 18:30:45,04-02-2024 18:30:49,3.369s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,04-02-2024 18:30:49,04-02-2024 18:30:50,1.265s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Footer_Links_004/Page_Online Shopping site in India Shop Onl_10c5f3/a_AbeBooksBooks, art collectibles""))",Chrome 121.0.0.0,,,04-02-2024 18:30:50,04-02-2024 18:30:53,2.939s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Footer_Links_004/Page_Online Shopping site in India Shop Onl_10c5f3/a_Amazon Web ServicesScalable CloudComputin_7d54b3""))",Chrome 121.0.0.0,,,04-02-2024 18:30:53,04-02-2024 18:30:59,5.937s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Footer_Links_004/Page_Online Shopping site in India Shop Onl_10c5f3/a_AudibleDownloadAudio Books""))",Chrome 121.0.0.0,,,04-02-2024 18:30:59,04-02-2024 18:31:02,3.219s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Footer_Links_004/Page_Online Shopping site in India Shop Onl_10c5f3/a_IMDbMovies, TV Celebrities""))",Chrome 121.0.0.0,,,04-02-2024 18:31:02,04-02-2024 18:31:08,5.814s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Footer_Links_004/Page_Online Shopping site in India Shop Onl_10c5f3/a_ShopbopDesignerFashion Brands""))",Chrome 121.0.0.0,,,04-02-2024 18:31:08,04-02-2024 18:31:13,4.879s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Footer_Links_004/Page_Online Shopping site in India Shop Onl_10c5f3/a_Amazon BusinessEverything ForYour Business""))",Chrome 121.0.0.0,,,04-02-2024 18:31:13,04-02-2024 18:31:15,2.086s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Footer_Links_004/Page_Online Shopping site in India Shop Onl_10c5f3/a_Prime Now 2-Hour Deliveryon Everyday Items""))",Chrome 121.0.0.0,,,04-02-2024 18:31:15,04-02-2024 18:31:18,3.217s,PASSED
+"click(findTestObject(""Object Repository/Amazon Pages/Validate_Amazon_Footer_Links_004/Page_Online Shopping site in India Shop Onl_10c5f3/a_Amazon Prime Music100 million songs, ad-f_1958ce""))",Chrome 121.0.0.0,,,04-02-2024 18:31:18,04-02-2024 18:31:22,3.720s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,04-02-2024 18:31:22,04-02-2024 18:31:22,0.473s,PASSED

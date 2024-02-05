@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_007,Chrome 120.0.0.0,,,26-01-2024 12:18:59,26-01-2024 12:19:27,28.090s,PASSED
+,,,,,,,
+Test Cases/Amazon/Amazon Product Page/Validate_Amazon_Search_Item_007,Chrome 120.0.0.0,Validate the amazon application to search an item,,26-01-2024 12:19:00,26-01-2024 12:19:27,27.232s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,26-01-2024 12:19:02,26-01-2024 12:19:08,6.353s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,26-01-2024 12:19:08,26-01-2024 12:19:10,1.731s,PASSED
+"setText(findTestObject(""Object Repository/Amazon Product Page/Validate_Amazon_Search_Item_007/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""Kids"")",Chrome 120.0.0.0,,,26-01-2024 12:19:10,26-01-2024 12:19:14,3.993s,PASSED
+"click(findTestObject(""Object Repository/Amazon Product Page/Validate_Amazon_Search_Item_007/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 120.0.0.0,,,26-01-2024 12:19:14,26-01-2024 12:19:24,10.562s,PASSED
+"click(findTestObject(""Object Repository/Amazon Product Page/Validate_Amazon_Search_Item_007/Page_Amazon.in  Kids/span_Results""))",Chrome 120.0.0.0,,,26-01-2024 12:19:24,26-01-2024 12:19:27,2.205s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,26-01-2024 12:19:27,26-01-2024 12:19:27,0.891s,PASSED

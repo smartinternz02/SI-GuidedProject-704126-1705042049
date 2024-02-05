@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon Login Page,Chrome 121.0.0.0,,,04-02-2024 18:40:32,04-02-2024 18:41:27,55.349s,FAILED
+,,,,,,,
+Test Cases/Amazon/Amazon Login Page/Validate_Amazon_Sign_In_Page_005,Chrome 121.0.0.0,Validate the amazon application for Sign In,,04-02-2024 18:40:33,04-02-2024 18:41:27,54.827s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,04-02-2024 18:40:33,04-02-2024 18:40:36,3.013s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,04-02-2024 18:40:36,04-02-2024 18:40:37,0.966s,PASSED
+"doubleClick(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Online Shopping site in India Shop Onl_10c5f3/a_Hello, sign in  Account  Lists""))",Chrome 121.0.0.0,,,04-02-2024 18:40:37,04-02-2024 18:40:51,13.918s,PASSED
+"setText(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_email""), """")",Chrome 121.0.0.0,,,04-02-2024 18:40:51,04-02-2024 18:40:52,1.398s,PASSED
+delay(3),Chrome 121.0.0.0,,,04-02-2024 18:40:52,04-02-2024 18:40:55,3.058s,PASSED
+"click(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/inputcontinue""))",Chrome 121.0.0.0,,,04-02-2024 18:40:55,04-02-2024 18:40:56,0.535s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_password""), """")",Chrome 121.0.0.0,,,04-02-2024 18:40:56,04-02-2024 18:41:27,31.446s,FAILED

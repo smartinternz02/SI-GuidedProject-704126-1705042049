@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_005,Chrome 120.0.0.0,,,26-01-2024 02:09:29,26-01-2024 02:09:51,22.084s,PASSED
+,,,,,,,
+Test Cases/Amazon/Amazon Login Page/Validate_Amazon_Sign_In_Page_005,Chrome 120.0.0.0,Validate the amazon application for Sign In,,26-01-2024 02:09:29,26-01-2024 02:09:51,21.691s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,26-01-2024 02:09:30,26-01-2024 02:09:33,3.137s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,26-01-2024 02:09:33,26-01-2024 02:09:34,1.176s,PASSED
+"doubleClick(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Online Shopping site in India Shop Onl_10c5f3/a_Hello, sign in  Account  Lists""))",Chrome 120.0.0.0,,,26-01-2024 02:09:34,26-01-2024 02:09:36,2.095s,PASSED
+"setText(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_email""), Email)",Chrome 120.0.0.0,,,26-01-2024 02:09:36,26-01-2024 02:09:38,1.860s,PASSED
+delay(3),Chrome 120.0.0.0,,,26-01-2024 02:09:38,26-01-2024 02:09:41,3.077s,PASSED
+"click(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,26-01-2024 02:09:41,26-01-2024 02:09:43,1.579s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/input_password""), Password)",Chrome 120.0.0.0,,,26-01-2024 02:09:43,26-01-2024 02:09:44,1.126s,PASSED
+delay(3),Chrome 120.0.0.0,,,26-01-2024 02:09:44,26-01-2024 02:09:47,3.010s,PASSED
+"click(findTestObject(""Object Repository/Amazon Login Page/Validate_Amazon_Sign_In_Page_005/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,26-01-2024 02:09:47,26-01-2024 02:09:48,0.664s,PASSED
+delay(3),Chrome 120.0.0.0,,,26-01-2024 02:09:48,26-01-2024 02:09:51,3.015s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,26-01-2024 02:09:51,26-01-2024 02:09:51,0.371s,PASSED

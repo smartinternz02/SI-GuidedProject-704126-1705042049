@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon Category Search,Chrome 121.0.0.0,,,04-02-2024 19:27:19,04-02-2024 19:27:28,8.912s,FAILED
+,,,,,,,
+Test Cases/Data Driven/Category search,Chrome 121.0.0.0,,,04-02-2024 19:27:19,04-02-2024 19:27:28,8.394s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,04-02-2024 19:27:20,04-02-2024 19:27:23,3.344s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,04-02-2024 19:27:23,04-02-2024 19:27:25,1.439s,PASSED
+"selectOptionByValue(findTestObject(""Data Driven Test/Page_Online Shopping site in India Shop Onl_10c5f3/select_All Categories        Alexa Skills  _a62561""), category, true)",Chrome 121.0.0.0,,,04-02-2024 19:27:25,04-02-2024 19:27:28,3.022s,FAILED
